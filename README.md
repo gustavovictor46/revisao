@@ -1,4 +1,16 @@
 # Batalha Pokémon: Charmander vs Pikachu
+Fizemos uma simulação de uma batalha Pokémon entre Charmander vs Pikachu utilizando os nossos conhecimentos adquiridos nos últimos 3 meses de aula de JavaScript no Senai!
+
+✅ Regras da Batalha:
+Pikachu e Charmander começam com 80 pontos de energia.
+
+Em cada rodada:
+
+Pikachu lança um ataque com dano aleatório entre 10 e 25 pontos.
+
+Charmander revida com um ataque de dano aleatório entre 8 e 22 pontos.
+
+A batalha continua até que um dos dois (ou os dois) cheguem a 0 ou menos de energia.
 
 ## Código
 
