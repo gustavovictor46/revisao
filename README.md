@@ -12,7 +12,7 @@ Charmander revida com um ataque de dano aleatório entre 8 e 22 pontos.
 
 A batalha continua até que um dos dois (ou os dois) cheguem a 0 ou menos de energia.
 
-## Código
+## Código e comentários explicando o código
 
 ```javascript
 // Declaração de variáveis dos Pokémon e sua energia inicial
